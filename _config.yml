@@ -1,5 +1,18 @@
 Title: Nihaal Shameem
-remote_theme: jekyll-theme-hacker
+
+# Add this line to the end of your _config.yml file
+sass:
+  style: compressed
+
+# Link the custom CSS
+theme: jekyll-theme-minima
+
+# To add your custom styles
+plugins:
+  - jekyll-sass-converter
+
+
+
 
 
 
