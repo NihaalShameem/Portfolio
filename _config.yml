@@ -5,7 +5,7 @@ sass:
   style: compressed
 
 # Link the custom CSS
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
 
 # To add your custom styles
 plugins:
