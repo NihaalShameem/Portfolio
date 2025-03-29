@@ -11,7 +11,9 @@ theme: jekyll-theme-minima
 plugins:
   - jekyll-sass-converter
 
-
+# Link the custom CSS
+sass:
+  style: compressed
 
 
 
